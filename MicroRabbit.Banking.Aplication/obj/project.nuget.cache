@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYlmA1/w6i6FpAdehaMFpKxvswfgbOMS3MGA1T5skJeUlBK5yNitFZE7yzmNlcQEN5Fcjj8uN3qgX+3JJOQUnA==",
+  "success": true,
+  "projectFilePath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Banking.Aplication/MicroRabbit.Banking.Aplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuba.saday/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

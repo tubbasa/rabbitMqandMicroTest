@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zz9Loal6XVsTUVhTQMVg6GuZrm4LjDwUcTJsbsrp4hB/nAEbPfWhWTws8k1K29BsD+OnExDoVwdAjTv2jq2bVQ==",
+  "success": true,
+  "projectFilePath": "/Users/tuba.saday/RiderProjects/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuba.saday/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
