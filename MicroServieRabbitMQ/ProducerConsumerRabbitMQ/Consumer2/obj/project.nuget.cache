@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4YFhmP57lHvxsvv0OOWr23tWPIW2e7LE956SXL50ZlhmGTkeb7XBzSXePanyu4SziKK6ixIymP/5ppKnEDW8g==",
+  "success": true,
+  "projectFilePath": "/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/Consumer2.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuba.saday/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/tuba.saday/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

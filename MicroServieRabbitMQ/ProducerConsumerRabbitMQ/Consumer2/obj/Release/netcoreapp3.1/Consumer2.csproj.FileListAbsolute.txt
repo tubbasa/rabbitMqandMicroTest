@@ -1,0 +1,15 @@
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/Consumer2.deps.json
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/Consumer2.runtimeconfig.json
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/Consumer2.runtimeconfig.dev.json
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/Consumer2.dll
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/Consumer2.pdb
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/bin/Release/netcoreapp3.1/System.Threading.Channels.dll
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.csprojAssemblyReference.cache
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.AssemblyInfoInputs.cache
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.AssemblyInfo.cs
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.csproj.CoreCompileInputs.cache
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.csproj.CopyComplete
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.dll
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.pdb
+/Users/tuba.saday/RiderProjects/MicroServieRabbitMQ/ProducerConsumerRabbitMQ/Consumer2/obj/Release/netcoreapp3.1/Consumer2.genruntimeconfig.cache
